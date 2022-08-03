@@ -1,3 +1,3 @@
 from playsound import playsound as play
 
-play('sounds/beep.wav')
+play('soundlib/sounds/beep.wav')

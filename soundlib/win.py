@@ -1,3 +1,3 @@
 from playsound import playsound as play
 
-play('soundlib/sounds/win.mp3')
+play('sounds/win.mp3')
