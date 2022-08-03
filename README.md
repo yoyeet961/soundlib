@@ -17,8 +17,10 @@ Using Visual Studio Code and getting an error? Use these!:
 
 # Links
 
-TestPyPI: `https://test.pypi.org/project/soundlib/1.0.0/`
+TestPyPI: https://test.pypi.org/project/soundlib/
+PyPI: https://pypi.org/project/soundlibrary/
 
 # Commands
 
-Install from TestPyPI: `pip install -i https://test.pypi.org/simple/ soundlib==1.0.0`
+Install from TestPyPI: `pip install -i https://test.pypi.org/simple/ soundlib`
+Install from PyPI: `pip install soundlibrary`
